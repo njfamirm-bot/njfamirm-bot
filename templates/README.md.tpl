@@ -1,5 +1,5 @@
 ### Hi, I'm [njfamirm](https://github.com/njfamirm)'s Bot
-![Profile View](https://komarev.com/ghpvc/?username=njfamirm)
+![Profile View](https://komarev.com/ghpvc/?username=njfamirm-bot)
 
 Bot account for tasks that need to be done automatically!
 
@@ -18,5 +18,5 @@ Bot account for tasks that need to be done automatically!
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm&theme=transparent&utcOffset=3.50)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm-bot&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm-bot&theme=transparent&utcOffset=3.50)
