@@ -1,5 +1,5 @@
 ### Hi, I'm [njfamirm](https://github.com/njfamirm)'s Bot
-![Profile View](https://komarev.com/ghpvc/?username=njfamirm-bot)
+![Profile View](https://komarev.com/ghpvc/?username=njfamirm)
 
 Bot account for tasks that need to be done automatically!
 
@@ -25,5 +25,5 @@ Bot account for tasks that need to be done automatically!
 - [chore(apod): clone 2023-07-30 apod data](https://github.com/njfamirm/apod/pull/18) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 days ago)
 - [docs(محصولات): add content/product/چگونه-اسکوپ-را-نصب-کنیم؟.md](https://github.com/njfamirm/keeperco.ir/pull/31) on [njfamirm/keeperco.ir](https://github.com/njfamirm/keeperco.ir) (4 weeks ago)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm-bot&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm-bot&theme=transparent&utcOffset=3.50)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njfamirm&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njfamirm&theme=transparent&utcOffset=3.50)
