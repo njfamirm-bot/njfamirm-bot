@@ -18,7 +18,7 @@ Bot account for tasks that need to be done automatically!
 - [chore(apod): clone 2023-09-28 apod data](https://github.com/njfamirm/apod/pull/84) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 weeks ago)
 - [chore(apod): clone 2023-09-27 apod data](https://github.com/njfamirm/apod/pull/83) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 weeks ago)
 - [chore(apod): clone 2023-09-26 apod data](https://github.com/njfamirm/apod/pull/82) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 weeks ago)
-- [chore(apod): clone 2023-09-25 apod data](https://github.com/njfamirm/apod/pull/81) on [njfamirm/apod](https://github.com/njfamirm/apod) (2 weeks ago)
+- [chore(apod): clone 2023-09-25 apod data](https://github.com/njfamirm/apod/pull/81) on [njfamirm/apod](https://github.com/njfamirm/apod) (3 weeks ago)
 - [chore(apod): clone 2023-09-24 apod data](https://github.com/njfamirm/apod/pull/80) on [njfamirm/apod](https://github.com/njfamirm/apod) (3 weeks ago)
 - [chore(apod): clone 2023-09-23 apod data](https://github.com/njfamirm/apod/pull/79) on [njfamirm/apod](https://github.com/njfamirm/apod) (3 weeks ago)
 - [chore(apod): clone 2023-09-22 apod data](https://github.com/njfamirm/apod/pull/78) on [njfamirm/apod](https://github.com/njfamirm/apod) (3 weeks ago)
