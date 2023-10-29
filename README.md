@@ -6,7 +6,7 @@ Bot account for tasks that need to be done automatically!
 #### 👨🏻‍💻 Check out what I'm currently working on
 
 - [njfamirm/njfamirm](https://github.com/njfamirm/njfamirm) -  (1 day ago)
-- [njfamirm/apod](https://github.com/njfamirm/apod) -  (4 weeks ago)
+- [njfamirm/apod](https://github.com/njfamirm/apod) -  (1 month ago)
 - [njfamirm/sitatus](https://github.com/njfamirm/sitatus) - Site Status checker (1 month ago)
 
 #### 🎉 Latest releases I've contributed to
@@ -14,7 +14,7 @@ Bot account for tasks that need to be done automatically!
 
 #### 👓 My recent Pull Requests
 
-- [chore(apod): clone 2023-09-29 apod data](https://github.com/njfamirm/apod/pull/85) on [njfamirm/apod](https://github.com/njfamirm/apod) (4 weeks ago)
+- [chore(apod): clone 2023-09-29 apod data](https://github.com/njfamirm/apod/pull/85) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 month ago)
 - [chore(apod): clone 2023-09-28 apod data](https://github.com/njfamirm/apod/pull/84) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 month ago)
 - [chore(apod): clone 2023-09-27 apod data](https://github.com/njfamirm/apod/pull/83) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 month ago)
 - [chore(apod): clone 2023-09-26 apod data](https://github.com/njfamirm/apod/pull/82) on [njfamirm/apod](https://github.com/njfamirm/apod) (1 month ago)
